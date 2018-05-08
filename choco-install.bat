@@ -12,6 +12,7 @@ choco install -y visualstudio2017enterprise
 choco install -y visualstudio2017-workload-azure
 choco install -y visualstudio2017-workload-netcoretools
 choco install -y visualstudio2017-workload-netweb
+choco install -y visualstudio2017-workload-netcrossplat
 choco install -y sql-server-management-studio
 choco install -y docker-for-windows
 choco install -y slack
@@ -24,3 +25,4 @@ choco install -y sandcastle
 choco install -y sourcetree
 choco install -y dotnetcore-sdk
 choco install -y firacode
+choco install -y microsoftazurestorageexplorer
