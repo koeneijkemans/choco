@@ -11,7 +11,6 @@ choco install -y visualstudio2019enterprise
 choco install -y visualstudio2019-workload-azure
 choco install -y visualstudio2019-workload-netcoretools
 choco install -y visualstudio2019-workload-netweb
-choco install -y visualstudio2019-workload-netcrossplat
 choco install -y sql-server-management-studio
 choco install -y docker-for-windows
 choco install -y postman
